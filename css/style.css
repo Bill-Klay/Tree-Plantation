@@ -1,0 +1,42 @@
+.map {
+    width: 1280px;
+    height: 1024px;
+}
+
+.cell {
+    cursor: cell;
+}
+
+.crosshair {
+    cursor: crosshair;
+}
+
+area {
+    cursor: not-allowed;
+}
+
+.success {
+    color: green;
+}
+
+.fail {
+    color: red;
+}
+
+/* Bootstrap style overwrite */
+
+nav {
+    background-color: green !important;
+}
+
+.navbar-brand {
+    color: #b3ffb3 !important;
+}
+
+#myNavbar > ul > li > a {
+    color: #b3ffb3 !important;
+}
+
+#myNavbar > ul > li > a:hover {
+    color: #fff !important;
+}
