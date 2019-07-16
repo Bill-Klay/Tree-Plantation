@@ -30,11 +30,9 @@ Tasks Completed:
 8. Restrict area.
 9. Users signup with username, email and password.
 10. Users login with username and password to place trees.
-
-Tasks need to be completed:
-1. Create an admin.
-2. Admin can assign 'admin' role to other users.
-3. Admin can upload/remove tree icons.
-4. Admin can delete users and ultimately their trees.
-5. Only admin can mark forbidden area.
-6. Admin can remove any tree but user can only remove own tree.
+11. Create an admin.
+12. Admin can assign 'admin' role to other users.
+13. Admin can upload/remove tree icons.
+14. Admin can delete users and ultimately their trees.
+15. Only admin can mark forbidden area.
+16. Admin can remove any tree but user can only remove own tree.
