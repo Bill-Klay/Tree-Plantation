@@ -58,7 +58,8 @@ CREATE TABLE `tree_location` (
   `xcoord` float NOT NULL,
   `ycoord` float NOT NULL,
   `username` varchar(50) NOT NULL,
-  `email` varchar(50) NOT NULL
+  `email` varchar(50) NOT NULL,
+  `userid` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 -- --------------------------------------------------------
